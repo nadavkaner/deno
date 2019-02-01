@@ -1,6 +1,7 @@
 # Copyright 2018-2019 the Deno authors. All rights reserved. MIT license.
 solutions = [{
-    'url': 'https://chromium.googlesource.com/v8/v8.git@7.2.502.16',
+    'url':
+    'https://chromium.googlesource.com/v8/v8.git@a1b431d7d3e2c7a41aa987f06b8df2036cb4de3c',
     'name': 'v8',
     'deps_file': 'DEPS',
     'custom_deps': {
